@@ -71,8 +71,8 @@ The project maps these labels using:
 label_mapping = {"N": 0, "O": 1}
 ```
 
-##Contributing
+## Contributing
 Contributions to improve the project are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
