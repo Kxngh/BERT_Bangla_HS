@@ -52,7 +52,6 @@ A fine-tuned version of this model is hosted on Hugging Face. You can check it o
   ```bash
 pip install torch transformers scikit-learn pandas numpy matplotlib tqdm
   ```
-# Bangla Hate Speech Detection
 
 ## Data
 
