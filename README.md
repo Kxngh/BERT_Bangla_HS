@@ -54,7 +54,7 @@ pip install torch transformers scikit-learn pandas numpy matplotlib tqdm
   ```
 
 ## Data
-
+The dataset used for this project is this [Hasoc 2024 Bangla DS](https://hasocfire.github.io/hasoc/2024/dataset.html)
 Place your dataset files in the project directory:
 
 - **train.json** – Contains the training samples.
