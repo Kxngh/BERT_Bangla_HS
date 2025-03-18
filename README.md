@@ -21,7 +21,7 @@ A fine-tuned version of this model is hosted on Hugging Face. You can check it o
 - **Model Training**
   - Fine-tunes the Bangla-BERT model over 3 epochs using PyTorch.
   - Utilizes the AdamW optimizer and CrossEntropy loss.
-  - Evaluates the model after each epoch, printing metrics such as Accuracy, Precision, Recall, and F1 Score.
+  - Evaluates the model after each epoch, printing metrics such as Accuracy, Precision, Recall and F1 Score.
 
 - **Visualization**
   - Plots training loss and evaluation metrics using matplotlib.
